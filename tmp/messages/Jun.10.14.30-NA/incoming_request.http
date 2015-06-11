@@ -1,0 +1,11 @@
+GET /cart.php?action=add&product_id=18&fastcart=1 HTTP/1.1
+Host: mlocal.igadgetcommerce.com:81
+Connection: keep-alive
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+Referer: http://mlocal.igadgetcommerce.com:81/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: SHOP_SESSION_TOKEN=vtr61a17d4tt6vufvc9ocmqst1; __atuvc=18%7C23; fornax_anonymousId=34c72d3b-fe46-435d-af8a-77e9598156b4; beacon_ratr=%5BReferrer%2C127.0.0.1%3A4002%2Chttp%3A%2F%2F127.0.0.1%3A4002%2F%5D; beacon_lnd=http%3A%2F%2Fmlocal.igadgetcommerce.com%3A81%2Fsample-product%2Fapple-iphone-bluetooth-headset; beacon_ref=http%3A%2F%2Fmlocal.igadgetcommerce.com%3A81%2F; STORE_VISITOR=1; beacon_lnd=http%3A%2F%2Fmlocal.igadgetcommerce.com%3A81%2F; beacon_ref=http%3A%2F%2F127.0.0.1%3A4002%2F; _bt_ref.BT-20182879-9.42b6=%5B%22%22%2C%22%22%2C1433958627%2C%22http%3A%2F%2F127.0.0.1%3A4002%2F%22%5D; beacon_vis=6549817826213888; beacon_reftyp=product; beacon_id=anonymous; beacon_typ=product; beacon_vid=5661514839097344; RECENTLY_VIEWED_PRODUCTS=24%2C27%2C18%2C6%2C0; ajs_user_id=null; ajs_group_id=null; beacon_vis=6549817826213888; beacon_reftyp=product; beacon_id=anonymous; beacon_typ=other; beacon_vid=5661514839097344; _bt_id.BT-20182879-9.42b6=7a62f7f76b66e892.1433774148.11.1433960986.1433952529.; _bt_ses.BT-20182879-9.42b6=*
+

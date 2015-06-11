@@ -1,0 +1,19 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Wed, 10 Jun 2015 19:14:41 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://mlocal.igadgetcommerce.com:441/cart.php?action=add&product_id=24
+X-BC-Is-HA: 1
+Connection: close
+Vary: Accept-Encoding
+Content-Length: 108
+X-Q-S: 302000201000186000001
+X-M-V: 5.4.121
+X-M-T: 000021000020000000000000000000
+X-S-V: local/igadget 
+X-I-V: /
+X-S-C: 
+X-M-P: true
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+

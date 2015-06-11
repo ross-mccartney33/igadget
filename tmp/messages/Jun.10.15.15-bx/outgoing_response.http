@@ -1,0 +1,30 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Wed, 10 Jun 2015 19:15:37 GMT
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: beacon_lnd=http%3A%2F%2Fmlocal.igadgetcommerce.com%3A81%2F; expires=Wed, 10-Jun-2015 19:45:37 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_ref=http%3A%2F%2F127.0.0.1%3A4002%2F; expires=Wed, 10-Jun-2015 19:45:37 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_vis=6549817826213888; expires=Wed, 10-Jun-2015 19:45:37 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_reftyp=other; expires=Wed, 10-Jun-2015 19:45:37 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_id=anonymous; expires=Wed, 10-Jun-2015 19:45:37 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_typ=other; expires=Wed, 10-Jun-2015 19:45:37 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_vid=5661514839097344; expires=Wed, 10-Jun-2015 19:45:37 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_ratr=%5BReferrer%2C127.0.0.1%3A4002%2Chttp%3A%2F%2F127.0.0.1%3A4002%2F%5D; expires=Wed, 10-Jun-2015 19:45:37 GMT; path=/; domain=.igadgetcommerce.com
+Location: /cart.php
+X-BC-Is-HA: 1
+Connection: close
+Vary: Accept-Encoding
+Content-Length: 108
+X-Q-S: 302000537000508000001
+X-M-V: 5.4.121
+X-M-T: 000044000043000000000000000000
+X-S-V: local/igadget 
+X-I-V: /
+X-S-C: 
+X-M-P: true
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+

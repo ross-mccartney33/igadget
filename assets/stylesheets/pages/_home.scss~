@@ -1,0 +1,22 @@
+// Every page should have a class on the body
+// Scope that in each file at the start
+.mw-home {
+  
+}
+.mw-hidden {
+display: none;
+}
+.mw-topMenu {
+display: block;
+background-color: orange;
+a {
+color: black;
+}
+a:visited {
+color: black;
+}
+li {
+list-style-type: none;
+display: inline;
+}
+}

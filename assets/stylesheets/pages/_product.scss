@@ -1,0 +1,58 @@
+.mw-productMain {
+	background-color: #D0D0D0;
+	margin: 5px;
+}
+.mw-detailRow {
+	clear:both;
+	display: block;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+.mw-label {
+	float: left;
+	display: block;
+	margin-right: 10px;
+}
+.mw-value {
+	float: left;
+	display: block;
+}
+.mw-bottomMargin {
+	margin-bottom: 10px;
+}
+.mw-topMargin {
+	margin-top: 10px;
+}
+.mw-button {
+	width: 100%;
+	margin-top: 10px;
+	padding: 15px;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	border-radius: 5px;
+	background-color: $button_background;
+}
+.mw-cartButtonDiv {
+	margin-top: 30px;
+}
+.mw-cartButton {
+	background-color: $button_background;
+	color: white !important;
+	/*margin-top: 30px;*/
+	border-radius: 5px;
+	font-weight: normal !important;
+	padding: 5px;
+	a {
+		color: inherit;
+	}
+	a:visited {
+		color: inherit;
+	}
+}
+.mw-bold {
+	font-weight: bold;
+}
+.mw-padding {
+	padding: 8px;
+}

@@ -1,0 +1,31 @@
+header.mw-header {
+ .mw-topMenu {
+	display: block;
+	background-color: orange;
+	a {
+		color: black;
+	}
+	a:visited {
+		color: black;
+	}
+	li {
+		list-style-type: none;
+	display: inline;
+	}
+ }
+ .mw-logo {
+	background-color: #c32300;
+	h1 {
+		a{		
+			color: white;
+			text-size: 12px;
+		}
+		a:visited{
+			color: white;
+		}
+	}
+	
+#93200
+ }
+}
+

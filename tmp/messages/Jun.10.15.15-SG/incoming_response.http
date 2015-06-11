@@ -1,0 +1,19 @@
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Wed, 10 Jun 2015 19:15:42 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: beacon_lnd=http%3A%2F%2Fmlocal.igadgetcommerce.com%3A81%2F; expires=Wed, 10-Jun-2015 19:45:42 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_ref=http%3A%2F%2F127.0.0.1%3A4002%2F; expires=Wed, 10-Jun-2015 19:45:42 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_vis=6549817826213888; expires=Wed, 10-Jun-2015 19:45:42 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_reftyp=other; expires=Wed, 10-Jun-2015 19:45:42 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_id=anonymous; expires=Wed, 10-Jun-2015 19:45:42 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_typ=other; expires=Wed, 10-Jun-2015 19:45:42 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_vid=5661514839097344; expires=Wed, 10-Jun-2015 19:45:42 GMT; path=/; domain=.igadgetcommerce.com
+Set-Cookie: beacon_ratr=%5BReferrer%2C127.0.0.1%3A4002%2Chttp%3A%2F%2F127.0.0.1%3A4002%2F%5D; expires=Wed, 10-Jun-2015 19:45:42 GMT; path=/; domain=.igadgetcommerce.com
+Location: /cart.php
+X-BC-Is-HA: 1
+

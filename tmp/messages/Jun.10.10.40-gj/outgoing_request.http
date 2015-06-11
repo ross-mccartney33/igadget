@@ -1,0 +1,12 @@
+GET / HTTP/1.0
+Host: www.igadgetcommerce.com
+Connection: close
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4
+Referer: http://127.0.0.1:4002/
+Accept-Encoding: gzip,deflate
+Accept-Language: en-US,en;q=0.8
+Cookie: SHOP_SESSION_TOKEN=vtr61a17d4tt6vufvc9ocmqst1; STORE_VISITOR=1; __atuvc=18%7C23; RECENTLY_VIEWED_PRODUCTS=6%2C18%2C24; fornax_anonymousId=34c72d3b-fe46-435d-af8a-77e9598156b4; beacon_vis=6549817826213888; beacon_reftyp=*none*; beacon_id=anonymous; beacon_typ=other; beacon_ratr=%5BReferrer%2C127.0.0.1%3A4002%2Chttp%3A%2F%2F127.0.0.1%3A4002%2F%5D; beacon_lnd=http%3A%2F%2Fwww.igadgetcommerce.com%2F; beacon_ref=http%3A%2F%2F127.0.0.1%3A4002%2F; beacon_lnd=http%3A%2F%2Fmlocal.igadgetcommerce.com%3A81%2F; beacon_ref=http%3A%2F%2F127.0.0.1%3A4002%2F; _bt_ref.BT-20182879-9.42b6=%5B%22%22%2C%22%22%2C1433945486%2C%22http%3A%2F%2F127.0.0.1%3A4002%2F%22%5D; ajs_user_id=null; ajs_group_id=null; beacon_vis=6549817826213888; beacon_reftyp=other; beacon_id=anonymous; beacon_typ=other; beacon_vid=2981920438747136; _bt_id.BT-20182879-9.42b6=7a62f7f76b66e892.1433774148.9.1433947243.1433942783.; _bt_ses.BT-20182879-9.42b6=*
+Via: 1.0 moovweb
+

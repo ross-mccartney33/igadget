@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 10 Jun 2015 16:29:18 GMT
+Content-Type: application/json; charset=UTF-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-BC-Is-HA: 1
+Connection: close
+Vary: Accept-Encoding
+Content-Length: 737
+X-Q-S: 200000432000412000002
+X-M-V: 5.4.121
+X-M-T: 000033000032000000000000000001
+X-S-V: local/igadget 
+X-I-V: /
+X-S-C: 
+
+{"success":1,"details":{"purchasable":true,"instock":true,"unformattedPrice":"10065","unformattedWeight":1,"weight":"1.00 LBS","base":false,"baseImage":"http:\/\/cdn1.bigcommerce.com\/server1200\/8hs29h5u\/products\/6\/images\/77\/mbp1__99760.1405401140.1280.1280.jpg?c=2","baseThumb":"http:\/\/cdn1.bigcommerce.com\/server1200\/8hs29h5u\/products\/6\/images\/77\/mbp1__99760.1405401140.220.220.jpg?c=2","image":"http:\/\/cdn1.bigcommerce.com\/server1200\/8hs29h5u\/products\/6\/images\/77\/mbp1__99760.1405401140.1280.1280.jpg?c=2","thumb":"http:\/\/cdn1.bigcommerce.com\/server1200\/8hs29h5u\/products\/6\/images\/77\/mbp1__99760.1405401140.220.220.jpg?c=2","price":"$10,065.00","rrp":"$0.00","unformattedRrp":0,"priceLabel":"Price:"}}

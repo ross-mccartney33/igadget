@@ -1,0 +1,50 @@
+header.mw-header {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	background-color: #ca3300;
+	height: 125px;
+	/*.mw-headerClass {
+		background-color: #ca3300;
+		padding:0;
+		margin:0;
+		width: 100%;
+	}*/
+	.mw-logo {
+		background-color: #ca3300;
+		padding-bottom: 10px;
+		display: block;
+		height: 75px;
+		h1 {
+			margin-bottom: 5px;
+			padding: 10px;
+			a{		
+				color: white;
+				text-decoration: none;
+				font-size: 80%;
+			}
+			a:visited{
+				color: white;
+			}
+			span {
+				font-size: 24px
+			}
+		}	
+ 	}
+ 	.mw-search {
+ 		background-color: #932000;
+ 		width: 100%;
+ 		overflow: hidden;
+ 		height: 50;
+ 		padding: 10px;
+ 		box-sizing: border-box;
+ 		.mw-searchQuery {
+ 			margin-right: 10px;
+ 		}
+ 	}
+ 	.mw-search::after {
+ 		background-color: #932000;
+ 	}
+
+}
+

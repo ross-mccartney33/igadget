@@ -1,0 +1,28 @@
+# Place holder/example file
+$('./body') {
+	$('.//div[@id="Outer"]') {
+		add_class('mw-home')
+		insert_top("header",class:"mw-header") {
+			move_here("//div[@id='TopMenu']")
+			$('.//div[@id="LogoContainer"]') {
+				add_class('mw-logo')
+				$('.//div[@id="SearchForm"]'){
+					add_class('mw-search')
+				}
+			}
+
+		}
+	}
+	
+
+	$('.//div[@id="AjaxLoading"]') {
+	 add_class('mw-hidden')
+	}
+	$('.//div[@id="TopMenu"]') {
+	 add_class('mw-topMenu')
+	}
+	$('.//div[@id="Footer"]') {
+	 add_class('mw-footer')
+	}
+
+}
